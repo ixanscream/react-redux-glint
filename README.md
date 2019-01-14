@@ -69,9 +69,10 @@ that it.
 
 (https://ibb.co/87hMNTf) notification for submit
 
+##Structure files
 
 ```
-    db.json                         #database server
+    db.json                         #database server, when u submit u can see the changes here
     package-lock.json
     package.json                    #package
     README.md
