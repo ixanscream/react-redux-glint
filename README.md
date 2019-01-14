@@ -106,11 +106,11 @@ React Redux Glint Tes Structure Files
         ----Component
         -       CompaniesPage.js        #Companies office main page
         -       CompanyItem.js          #company items list #1 page and deletion company
-        -       DetailCompany.js        #company detail page include list office and deletion for office
+        -       DetailCompany.js        #company detail page include list office 
         -       FormCompany.js          #form create company
         -       FormOffice.js           #form create office
         -       MainPage.js             #Main page
-        -       OfficeItem.js           #office item list for company detail
+        -       OfficeItem.js           #office item list for company detail and deletion for office
         -       
         ----reducers    
                 companyReducer.js       #reducer company        
@@ -118,7 +118,12 @@ React Redux Glint Tes Structure Files
                 officeReducer.js        #reducer office
                 phonecodeReducer.js     #reducer fetching phone code`
 ```
-Thank you for the time to review this app and give me this opportunity, this assignment really made me happy, because I learn a lot from this. have a good day guys, i apologize, because my English isn't good to read. XD
+Thank you for the time to review this app and give me this opportunity, this assignment really made me happy, because I learn a lot from this. have a good day guys, i apologize, because my English isn't good to read. XD, 
 
 Ihsan
 Cheers
+
+
+```
+I know what I am doing a lot its not perfect, such as alert after delete or alert after submit, if the server is down, like the delete action is successful or error, but I thought it wasn't from the test section hehe
+```
