@@ -71,7 +71,7 @@ that it.
 
 (https://ibb.co/87hMNTf) notification for submit
 
-(https://ibb.co/bd4p43P) application diagram for detail proses application and structure db
+(https://ibb.co/bd4p43P) application diagram for detail proccess and db structure
 
 
 
