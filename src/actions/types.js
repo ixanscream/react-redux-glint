@@ -1,0 +1,8 @@
+export const FETCH_COMPANIES = 'FETCH_COMPANIES'
+export const FETCH_COMPANY = 'FETCH_COMPANY'
+export const NEW_COMPANY = 'NEW_COMPANY'
+export const DEL_COMPANY = 'DEL_COMPANY'
+export const FETCH_OFFICES = 'FETCH_OFFICES'
+export const NEW_OFFICE = 'NEW_OFFICE'
+export const DEL_OFFICE = 'DEL_OFFICE'
+export const FETCH_CODES = 'FETCH_CODES'
