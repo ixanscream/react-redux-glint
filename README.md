@@ -17,7 +17,9 @@ wait until finish
 
 type => 
 
-```json-server --watch db.json```
+```
+json-server --watch db.json
+```
 
 the server is run on port 3000 (http://localhost:3000)
 
@@ -27,7 +29,11 @@ after the server is on, now we will run the application
 
 open new terminal (cmd) in the same folder (react-redux-glint)
 type => 
-###`npm start`
+
+```
+npm start
+```
+
 now u got warn "Something is already running on port 3000"
 yes because we have used that port for the server
 
