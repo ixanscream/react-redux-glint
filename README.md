@@ -44,7 +44,10 @@ type =>
 now our application will run on port 3001  (http://localhost:3000)
  
 if you want to debug redux with dev tool, please open the store.js file and delete the comment that I marked
-->   //,window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()   
+->   
+```
+//,window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()  
+```
 
 that it.
 
