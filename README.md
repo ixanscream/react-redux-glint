@@ -2,8 +2,10 @@ React Redux Glint Tes
 =========================
 
 
-
+```
 git clone https://github.com/ixanscream/react-redux-glint.git
+```
+
 
 go to react-redux-glint folder to install all node modules
 
