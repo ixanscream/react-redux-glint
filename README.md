@@ -37,17 +37,16 @@ https://ibb.co/kMV9bNV calender popup
 https://ibb.co/87hMNTf notification for submit
 
 
--   db.json                         #database server
--   package-lock.json
--   package.json                    #package
--   README.md
--   yarn.lock
--   
+db.json                         #database server
+package-lock.json
+package.json                    #package
+README.md
+yarn.lock
+   
 ----public
--       favicon.ico
--       index.html
--       manifest.json
--       
+    -favicon.ico
+    -index.html
+    -manifest.json   
 ----src
     -   App.css
     -   App.js
