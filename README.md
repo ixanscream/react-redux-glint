@@ -58,7 +58,7 @@ if you want to debug redux with dev tools, please open the store.js file and del
 //,window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()  
 ```
 
-that it.
+thats it.
 
 
 (https://ibb.co/tbFzPV0) sample first screen
@@ -72,8 +72,6 @@ that it.
 (https://ibb.co/87hMNTf) notification for submit
 
 (https://ibb.co/bd4p43P) application diagram for detail proccess and db structure
-
-
 
 React Redux Glint Tes Structure Files
 =========================
@@ -120,3 +118,7 @@ React Redux Glint Tes Structure Files
                 officeReducer.js        #reducer office
                 phonecodeReducer.js     #reducer fetching phone code`
 ```
+Thank you for the time to give me this opportunity, and also reviewed this, this assignment really made me happy, because I learn a lot from this. have a good day guys
+
+Ihsan
+Cheers
