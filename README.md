@@ -118,7 +118,7 @@ React Redux Glint Tes Structure Files
                 officeReducer.js        #reducer office
                 phonecodeReducer.js     #reducer fetching phone code`
 ```
-Thank you for the time to give me this opportunity, and also reviewed this, this assignment really made me happy, because I learn a lot from this. have a good day guys, i apologize, because my English isn't too good to read.
+Thank you for the time to review this app and give me this opportunity, this assignment really made me happy, because I learn a lot from this. have a good day guys, i apologize, because my English isn't too good to read.
 
 Ihsan
 Cheers
