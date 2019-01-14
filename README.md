@@ -48,7 +48,7 @@ type =>
 
 ```Y``` 
 
-now our application will run on port 3001  (http://localhost:3000)
+now our application will run on port 3001  (http://localhost:3001)
  
 if you want to debug redux with dev tool, please open the store.js file and delete the comment that I marked
 ->   
