@@ -125,5 +125,5 @@ Cheers
 
 
 ```
-I know what I created its not perfect, such as alert after delete or alert after submit, if the server is down, like the delete action is successful or error, but I thought it wasn't from the test section hehe.
+I know what I created its not perfect, such as alert after deleteted or alert after submitted, if the server is down, like the delete action is successful or error, but I thought it wasn't from the test section hehe.
 ```
