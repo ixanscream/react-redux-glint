@@ -71,6 +71,8 @@ that it.
 
 (https://ibb.co/87hMNTf) notification for submit
 
+(https://ibb.co/dfkGgdJ) application diagram
+
 
 
 React Redux Glint Tes Structure Files
