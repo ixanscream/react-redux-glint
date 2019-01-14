@@ -44,7 +44,7 @@ npm start
 ```
 
 now u got warn "Something is already running on port 3000"
-yes because we just used that port for the server 
+yes because db server used it 
 
 type => 
 
