@@ -4,12 +4,12 @@ git clone https://github.com/ixanscream/react-redux-glint.git
 go to react-redux-glint folder to install all node modules
 
 type => 
-##`npm install` 
+###`npm install` 
 
 wait until finish
 
 typ e=> 
-##`json-server --watch db.json`
+###`json-server --watch db.json`
 
 the server is run on port 3000
 
@@ -19,12 +19,12 @@ after the server is on, now we will run the application
 
 open new terminal (cmd) in the same folder (react-redux-glint)
 type => 
-##`npm start`
+###`npm start`
 now u got warn "Something is already running on port 3000"
 yes because we have used that port for the server
 
 type => 
-##`Y` 
+###`Y` 
 
 now our application will run on port 3001
 
@@ -41,7 +41,7 @@ that it.
 ##https://ibb.co/87hMNTf notification for submit
 
 
-## db.json                         #database server
+## `db.json                         #database server
 ## package-lock.json
 ## package.json                    #package
 ## README.md
@@ -80,5 +80,5 @@ that it.
 ##             companyReducer.js       #reducer company        
 ##             index.js                #combine reducers
 ##             officeReducer.js        #reducer office
-##             phonecodeReducer.js     #reducer fetching phone code
+##             phonecodeReducer.js     #reducer fetching phone code`
             
