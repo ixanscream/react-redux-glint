@@ -118,6 +118,6 @@ React Redux Glint Tes Structure Files
 ```
 
 ```
-if this not clear enough, i can make a video for you and upload it to youtube XD
+if this not clear enough, i can make a video for you and upload it to youtube XD, this is my first with redux-react -_-' i just create apps always with dotnet and scafold with ui react, its mean by generator
 ```
             
