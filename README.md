@@ -104,7 +104,7 @@ React Redux Glint Tes Structure Files
         -       types.js                #redux action types
         -       
         ----Component
-        -       CompaniesPage.js        #redux action types
+        -       CompaniesPage.js        #Companies office main page
         -       CompanyItem.js          #company items list #1 page and deletion company
         -       DetailCompany.js        #company detail page include list office and deletion for office
         -       FormCompany.js          #form create company
