@@ -65,7 +65,7 @@ thats it.
 
 (https://ibb.co/SXSRwW5) confirm deletion
 
-(https://ibb.co/8Bjr8yQ) phont code selection implementation fetched from db.json
+(https://ibb.co/8Bjr8yQ) phone code selection implementation fetched from db.json
 
 (https://ibb.co/kMV9bNV) calender popup
 
@@ -118,7 +118,7 @@ React Redux Glint Tes Structure Files
                 officeReducer.js        #reducer office
                 phonecodeReducer.js     #reducer fetching phone code`
 ```
-Thank you for the time to review this app and give me this opportunity, this assignment really made me happy, because I learn a lot from this. have a good day guys, i apologize, because my English isn't too good to read.
+Thank you for the time to review this app and give me this opportunity, this assignment really made me happy, because I learn a lot from this. have a good day guys, i apologize, because my English isn't good to read. XD
 
 Ihsan
 Cheers
