@@ -59,44 +59,46 @@ that it.
 (https://ibb.co/87hMNTf) notification for submit
 
 
-## `db.json                         #database server
-## package-lock.json
-## package.json                    #package
-## README.md
-## yarn.lock
-##    
-## ----public
-##     -favicon.ico
-##     -index.html
-##     -manifest.json   
-## ----src
-##     -   App.css
-##     -   App.js
-##     -   App.test.js
-##     -   index.css
-##     -   index.js
-##     -   logo.svg
-##     -   serviceWorker.js
-##     -   store.js                    #store redux
-##     -   
-##     ----actions
-##     -       companyAction.js        #redux company action crud
-##     -       officeAction.js         #redux office action crud
-##     -       phonecodeAction.js      #redux fetch phone code
-##     -       types.js                #redux action types
-##     -       
-##     ----Component
-##     -       CompaniesPage.js        #redux action types
-##     -       CompanyItem.js          #company items list #1 page and deletion company
-##     -       DetailCompany.js        #company detail page include list office and deletion for office
-##     -       FormCompany.js          #form create company
-##     -       FormOffice.js           #form create office
-##     -       MainPage.js             #Main page
-##     -       OfficeItem.js           #office item list for company detail
-##     -       
-##     ----reducers    
-##             companyReducer.js       #reducer company        
-##             index.js                #combine reducers
-##             officeReducer.js        #reducer office
-##             phonecodeReducer.js     #reducer fetching phone code`
+```
+    db.json                         #database server
+    package-lock.json
+    package.json                    #package
+    README.md
+    yarn.lock
+    
+    ----public
+        -favicon.ico
+        -index.html
+        -manifest.json   
+    ----src
+        -   App.css
+        -   App.js
+        -   App.test.js
+        -   index.css
+        -   index.js
+        -   logo.svg
+        -   serviceWorker.js
+        -   store.js                    #store redux
+        -   
+        ----actions
+        -       companyAction.js        #redux company action crud
+        -       officeAction.js         #redux office action crud
+        -       phonecodeAction.js      #redux fetch phone code
+        -       types.js                #redux action types
+        -       
+        ----Component
+        -       CompaniesPage.js        #redux action types
+        -       CompanyItem.js          #company items list #1 page and deletion company
+        -       DetailCompany.js        #company detail page include list office and deletion for office
+        -       FormCompany.js          #form create company
+        -       FormOffice.js           #form create office
+        -       MainPage.js             #Main page
+        -       OfficeItem.js           #office item list for company detail
+        -       
+        ----reducers    
+                companyReducer.js       #reducer company        
+                index.js                #combine reducers
+                officeReducer.js        #reducer office
+                phonecodeReducer.js     #reducer fetching phone code`
+```
             
