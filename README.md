@@ -116,4 +116,8 @@ React Redux Glint Tes Structure Files
                 officeReducer.js        #reducer office
                 phonecodeReducer.js     #reducer fetching phone code`
 ```
+
+```
+if this not clear enough, i can make a video for you and upload it to youtube XD
+```
             
