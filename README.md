@@ -23,7 +23,7 @@ type =>
 json-server --watch db.json
 ```
 
-now the server is run on port 3000 (http://localhost:3000)
+now the server (db) run on port 3000 (http://localhost:3000)
 
 (http://localhost:3000/companies) companies
 
@@ -44,7 +44,7 @@ npm start
 ```
 
 now u got warn "Something is already running on port 3000"
-yes because we have used that port for the server
+yes because we just used that port for the server 
 
 type => 
 
@@ -52,7 +52,7 @@ type =>
 
 now our application will run on port 3001  (http://localhost:3001)
  
-if you want to debug redux with dev tool, please open the store.js file and delete the comment that I marked
+if you want to debug redux with dev tools, please open the store.js file and delete the comment that I marked
 ->   
 ```
 //,window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()  
@@ -61,17 +61,17 @@ if you want to debug redux with dev tool, please open the store.js file and dele
 that it.
 
 
-(https://ibb.co/tbFzPV0) sample screen
+(https://ibb.co/tbFzPV0) sample first screen
 
 (https://ibb.co/SXSRwW5) confirm deletion
 
-(https://ibb.co/8Bjr8yQ) code selection implementation fetch from db.json
+(https://ibb.co/8Bjr8yQ) phont code selection implementation fetched from db.json
 
 (https://ibb.co/kMV9bNV) calender popup
 
 (https://ibb.co/87hMNTf) notification for submit
 
-(https://ibb.co/bd4p43P) application diagram
+(https://ibb.co/bd4p43P) application diagram for detail proses application and structure db
 
 
 
