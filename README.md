@@ -3,11 +3,13 @@ git clone https://github.com/ixanscream/react-redux-glint.git
 
 go to react-redux-glint folder to install all node modules
 
-type => npm install 
+type => 
+##`npm install` 
 
 wait until finish
 
-typ e=> json-server --watch db.json
+typ e=> 
+##`json-server --watch db.json`
 
 the server is run on port 3000
 
@@ -16,11 +18,13 @@ as you can see, there are several addresses to access datas
 after the server is on, now we will run the application
 
 open new terminal (cmd) in the same folder (react-redux-glint)
-type => npm start
+type => 
+##`npm start`
 now u got warn "Something is already running on port 3000"
 yes because we have used that port for the server
 
-type => Y 
+type => 
+##`Y` 
 
 now our application will run on port 3001
 
@@ -30,51 +34,51 @@ if you want to debug redux with dev tool, please open the store.js file and dele
 that it.
 
 
-https://ibb.co/tbFzPV0 sample screen
-https://ibb.co/SXSRwW5 confirm deletion
-https://ibb.co/8Bjr8yQ code selection implementation fetch from db.json
-https://ibb.co/kMV9bNV calender popup
-https://ibb.co/87hMNTf notification for submit
+##https://ibb.co/tbFzPV0 sample screen
+##https://ibb.co/SXSRwW5 confirm deletion
+##https://ibb.co/8Bjr8yQ code selection implementation fetch from db.json
+##https://ibb.co/kMV9bNV calender popup
+##https://ibb.co/87hMNTf notification for submit
 
 
-db.json                         #database server
-package-lock.json
-package.json                    #package
-README.md
-yarn.lock
-   
-----public
-    -favicon.ico
-    -index.html
-    -manifest.json   
-----src
-    -   App.css
-    -   App.js
-    -   App.test.js
-    -   index.css
-    -   index.js
-    -   logo.svg
-    -   serviceWorker.js
-    -   store.js                    #store redux
-    -   
-    ----actions
-    -       companyAction.js        #redux company action crud
-    -       officeAction.js         #redux office action crud
-    -       phonecodeAction.js      #redux fetch phone code
-    -       types.js                #redux action types
-    -       
-    ----Component
-    -       CompaniesPage.js        #redux action types
-    -       CompanyItem.js          #company items list #1 page and deletion company
-    -       DetailCompany.js        #company detail page include list office and deletion for office
-    -       FormCompany.js          #form create company
-    -       FormOffice.js           #form create office
-    -       MainPage.js             #Main page
-    -       OfficeItem.js           #office item list for company detail
-    -       
-    ----reducers    
-            companyReducer.js       #reducer company        
-            index.js                #combine reducers
-            officeReducer.js        #reducer office
-            phonecodeReducer.js     #reducer fetching phone code
+## db.json                         #database server
+## package-lock.json
+## package.json                    #package
+## README.md
+## yarn.lock
+##    
+## ----public
+##     -favicon.ico
+##     -index.html
+##     -manifest.json   
+## ----src
+##     -   App.css
+##     -   App.js
+##     -   App.test.js
+##     -   index.css
+##     -   index.js
+##     -   logo.svg
+##     -   serviceWorker.js
+##     -   store.js                    #store redux
+##     -   
+##     ----actions
+##     -       companyAction.js        #redux company action crud
+##     -       officeAction.js         #redux office action crud
+##     -       phonecodeAction.js      #redux fetch phone code
+##     -       types.js                #redux action types
+##     -       
+##     ----Component
+##     -       CompaniesPage.js        #redux action types
+##     -       CompanyItem.js          #company items list #1 page and deletion company
+##     -       DetailCompany.js        #company detail page include list office and deletion for office
+##     -       FormCompany.js          #form create company
+##     -       FormOffice.js           #form create office
+##     -       MainPage.js             #Main page
+##     -       OfficeItem.js           #office item list for company detail
+##     -       
+##     ----reducers    
+##             companyReducer.js       #reducer company        
+##             index.js                #combine reducers
+##             officeReducer.js        #reducer office
+##             phonecodeReducer.js     #reducer fetching phone code
             
