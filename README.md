@@ -21,7 +21,14 @@ type =>
 json-server --watch db.json
 ```
 
-the server is run on port 3000 (http://localhost:3000)
+now the server is run on port 3000 (http://localhost:3000)
+
+(http://localhost:3000/companies) companies
+
+(http://localhost:3000/office) offices
+
+(http://localhost:3000/phonecode) phone code
+
 
 as you can see, there are several addresses to access datas
 
