@@ -118,6 +118,6 @@ React Redux Glint Tes Structure Files
 ```
 
 ```
-if this not clear enough, i can make a video for you and upload it to youtube XD, this is my first with redux-react :( i always create apps with dotnet and scafold with react, its mean by generator :D
+if this not clear enough, i can make a video for you and upload it to youtube XD, this is my first app created by react-redux :( i always create apps with dotnet and scafold with react, its mean by generator :D, fullstack
 ```
             
