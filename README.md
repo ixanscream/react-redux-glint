@@ -7,7 +7,7 @@ git clone https://github.com/ixanscream/react-redux-glint.git
 ```
 
 
-go to react-redux-glint folder to install all node modules, i assume u just installed node on ur machine
+go to react-redux-glint folder to install all node modules, assume u just installed node on ur machine
 
 type => 
 
